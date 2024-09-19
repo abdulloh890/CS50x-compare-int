@@ -1,21 +1,21 @@
-#Project name and introduction
+**Project name and introduction**
 compare.c integer comparison
 
-#Overview
+**Overview**
 This project is part of the CS50x Problem sets. The goal was to implement a integer comparing program
 
-#Features
+**Features**
 This program takes only 2 integer inputs to compare each other. 
 Then it compares first input to the second returning "less than" or "greater than" values on terminal,
 else "equal"
 
-#Technologies
+**Technologies**
 C programming language
 #include <cs50.h> library
 #include <stdio.h> library
 
 
-#Installation
+**Installation**
 1. Clone Repository:
    git clone https://github.com/abdulloh890/CS50x-compare-int.git
 2. Change directory
